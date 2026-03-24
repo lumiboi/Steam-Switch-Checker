@@ -9,6 +9,10 @@
 
 ## Overview
 
+<img width="1027" height="317" alt="image" src="https://github.com/user-attachments/assets/96b57837-37e7-4174-ac2f-42e434dd2adf" />
+<img width="403" height="606" alt="image" src="https://github.com/user-attachments/assets/1c111f3c-05fb-44de-8b43-ab242f9e65dc" />
+
+
 Steam Switch Checker injects a compact card into Steam app pages and shows:
 
 - matched title on eShop-Prices
