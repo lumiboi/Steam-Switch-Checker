@@ -1,0 +1,14 @@
+# OS / editor artifacts
+.DS_Store
+Thumbs.db
+
+# Chrome unpacked extension runtime artifacts
+_metadata/
+
+# Local investigation/debug files
+filters.js
+application.js
+config.js
+
+# Optional release output folder
+release/
